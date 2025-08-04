@@ -1,7 +1,5 @@
 # Hi there, I'm  AL AMIN 👋      
-<a href="https://mualamin.web.app">
-<!-- <img src="https://github.com/mualamin/mualamin/blob/main/mualamin.png?raw=true" /> -->
-</a>
+
 
 <!-- Welcome to my GitHub profile! I'm a passionate developer with a love for coding and open-source contributions. Here you can find some of my projects, contributions, and more about me.
 ## 🌟 About Me --> 
