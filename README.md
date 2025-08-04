@@ -1,4 +1,4 @@
-# Hi there, I'm  JIM! 👋      
+# Hi there, I'm  AL AMIN 👋      
 <a href="https://mualamin.web.app">
 <!-- <img src="https://github.com/mualamin/mualamin/blob/main/mualamin.png?raw=true" /> -->
 </a>
